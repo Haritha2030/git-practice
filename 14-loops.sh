@@ -9,7 +9,7 @@
 
 # in script
 
-for i in {0..0}  #0-10
+for i in {0..10}  #0-10
 do
     echo $i
 done
